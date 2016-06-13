@@ -2,7 +2,7 @@ FROM alpine:3.4
 # Alternative
 # FROM mhart/alpine-node
 MAINTAINER rguitter@gmail.com
-LABEL version="latest" \
+LABEL version="0.1" \
       description="Base image for nodejs application."
 
 ENV VERSION=6.2.0-r0
