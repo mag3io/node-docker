@@ -1,6 +1,7 @@
 FROM alpine:edge
 # Alternative
 # FROM mhart/alpine-node
+
 MAINTAINER rguitter@gmail.com
 LABEL version="0.1" \
       description="Base image for nodejs application."
